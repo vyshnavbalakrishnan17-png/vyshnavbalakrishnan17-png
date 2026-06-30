@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Vyshnav Balakrishnan
+# Hi there 👋, I'm Vyshnav P
 
 🎓 BTech IT Graduate
 
