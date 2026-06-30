@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋, I'm Vyshnav Balakrishnan
 
-<!--
-**vyshnavbalakrishnan17-png/vyshnavbalakrishnan17-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech IT Graduate
 
-Here are some ideas to get you started:
+💻 Aspiring Full Stack Developer passionate about building innovative applications and solving real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Interests
+- Full Stack Development
+- Machine Learning
+- Data Analytics
+- Flutter App Development
+
+## 🛠️ Skills
+- Python
+- Java
+- Flutter
+- SQL
+- MongoDB
+- HTML, CSS, JavaScript
+- Machine Learning
+
+## 📌 Projects
+- MindTrace - AI-based Multimodal Depression Detection System
+- Flutter Mobile Applications
+- Machine Learning Projects
+- Data Analytics Projects
+
+## 🌐 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/vyshnav-p-2a7aba380
+
+📍 Kannur, Kerala, India
+
