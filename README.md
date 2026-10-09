@@ -23,6 +23,7 @@
 ## 📌 Projects
 - MindTrace - AI-based Multimodal Depression Detection System
 - [NetGuard](https://github.com/vyshnavbalakrishnan17-png/netguard) - Flutter Android app for Wi-Fi network management & access control (device list, MAC blacklist, website blocking)
+- [SecureWall](https://github.com/vyshnavbalakrishnan17-png/SecureWall) - Python-based network traffic monitoring & rule-based firewall prototype
 - Flutter Mobile Applications
 - Machine Learning Projects
 - Data Analytics Projects
