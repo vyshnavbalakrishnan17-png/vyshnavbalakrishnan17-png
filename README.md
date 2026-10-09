@@ -9,6 +9,7 @@
 - Machine Learning
 - Data Analytics
 - Flutter App Development
+- Cybersecurity
 
 ## 🛠️ Skills
 - Python
@@ -21,6 +22,7 @@
 
 ## 📌 Projects
 - MindTrace - AI-based Multimodal Depression Detection System
+- [NetGuard](https://github.com/vyshnavbalakrishnan17-png/netguard) - Flutter Android app for Wi-Fi network management & access control (device list, MAC blacklist, website blocking)
 - Flutter Mobile Applications
 - Machine Learning Projects
 - Data Analytics Projects
