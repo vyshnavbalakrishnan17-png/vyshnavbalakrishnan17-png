@@ -12,13 +12,12 @@
 - Cybersecurity
 
 ## 🛠️ Skills
-- Python
-- Java
-- Flutter
-- SQL
-- MongoDB
-- HTML, CSS, JavaScript
-- Machine Learning
+- **Languages:** Python · Dart · Java · SQL · JavaScript
+- **Frameworks:** Flutter · Provider (state management)
+- **Security & Networking:** Packet analysis (Scapy) · Firewall rule design · MAC filtering & OUI lookup · HTTP reverse engineering
+- **Data & ML:** MongoDB · Machine Learning · Data Analytics
+- **Web:** HTML · CSS · JavaScript
+- **Tools:** Git & GitHub · Gradle · ADB · Unit testing (flutter_test)
 
 ## 📌 Projects
 - MindTrace - AI-based Multimodal Depression Detection System
